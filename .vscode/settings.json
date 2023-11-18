@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.port": 5501,
+  "prettier.embeddedLanguageFormatting": "auto",
+  "editor.defaultFormatter": null,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
